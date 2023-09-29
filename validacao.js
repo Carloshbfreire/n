@@ -33,6 +33,8 @@ function verificaSeOChutePossuiUmValorValido(chute) {
        `
     }   
 
+    
+
 
 }
 
