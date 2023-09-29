@@ -31,10 +31,7 @@ function verificaSeOChutePossuiUmValorValido(chute) {
         elementoChute.innerHTML += `
         <div>O número secreto é maior <i class="fa-solid fa-up-long"></i></div>
        `
-    }   
-
-    
-
+    }    
 
 }
 
